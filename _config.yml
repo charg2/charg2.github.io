@@ -17,8 +17,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: charg2
   email: charg2dang@kakao.com
+  dribbble: charg2
   github: barryclark/jekyll-now
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
